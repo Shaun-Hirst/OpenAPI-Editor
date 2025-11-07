@@ -1,2 +1,2 @@
-# OpenAPI-Editor
+# OpenAPI Editor
 Visual OpenAPI Editor
